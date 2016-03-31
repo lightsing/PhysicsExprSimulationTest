@@ -1,0 +1,6 @@
+{
+  "name": "科大奥锐实验教学系统信息提取工具PEST",
+  "tagline": "还在苦苦刷实验预习而不知道答案？试试PEST吧，别搞个大新闻就可以了",
+  "body": "# PEST能做啥？\r\n\r\n* 查询成绩\r\n* 查询指定试卷答案\r\n* 找队友啊找队友，看看还有谁跟你一块刷实验\r\n* 看看跟你一起做实验的学霸小伙伴都拿了几分\r\n\r\n# Bug Report\r\n* 有任何问题，创建issue或者在程序里戳bug反馈就好啦\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
